@@ -1,0 +1,21 @@
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\bin\Debug\Kelime Ara.exe
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\bin\Debug\Kelime Ara.pdb
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime_Ara.Form1.resources
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime_Ara.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.exe
+C:\Users\ncfkr1\Desktop\ \C#\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.pdb
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.exe
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.pdb
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\bin\Debug\Kelime Ara.exe
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\bin\Debug\Kelime Ara.pdb
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime_Ara.Form1.resources
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime_Ara.Properties.Resources.resources
+C:\Users\murat\Desktop\16 Kodbank C# Görsel Programlama 16 Kelime Ara\Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.exe
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.pdb
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\bin\Debug\Kelime Ara.exe
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\bin\Debug\Kelime Ara.pdb
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime_Ara.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime_Ara.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\36 Kelime Ara\Kelime Ara\obj\x86\Debug\Kelime Ara.csproj.GenerateResource.Cache
